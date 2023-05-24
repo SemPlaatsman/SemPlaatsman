@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **semplaatsman@gmail.com**
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discordapp.com/users/665130181597462530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SemPl1234#9344" height="30" width="40" /></a>
