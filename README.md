@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semplaatsman&label=Profile%20views&color=0e75b6&style=flat" alt="semplaatsman" /> </p>
 
-- 🌱 I’m currently learning **Vue, Linux and PHP**
+- 🌱 I’m currently learning **Vue, Spring Boot, PHP**
 
 - 📫 How to reach me [Email](mailto:semplaatsman@gmail.com), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), [Discord](https://discordapp.com/users/665130181597462530)
 
