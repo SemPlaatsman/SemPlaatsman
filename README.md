@@ -16,7 +16,7 @@
 <h3 align="left">My Skills</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma&theme=dark](https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma&theme=light)">
-  <img alt="Light mode" src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma&theme=light">
+  <img alt="Light mode" src="[https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma&theme=light](https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma&theme=light)">
 </picture>
 
 <h3 align="left">Languages and Tools:</h3>
