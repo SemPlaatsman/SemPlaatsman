@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue, Linux and PHP**
 
-- 📫 How to reach me **semplaatsman@gmail.com**
+- 📫 How to reach me [Email](mailto:semplaatsman@gmail.com), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), [Discord](https://discordapp.com/users/665130181597462530), <a target="blank" href="https://discordapp.com/users/665130181597462530">Discord</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
