@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Vue, Spring Boot, and PHP**
 
 - 📫 How to reach me [Email](mailto:semplaatsman@gmail.com), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), [Discord](https://discordapp.com/users/665130181597462530)
+
+- ⚡ Fun fact **my avatar is a perimeter graph derived from the letters of my name**
 <details open> 
   <summary><h2>How to connect with me</h2></summary>
   <p>
