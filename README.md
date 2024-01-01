@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary><h2>If you like statistics just like I do, here are some</h2></summary>
+  <summary><h2>And here are some statistics</h2></summary>
   <p>
     <img src="https://raw.githubusercontent.com/SemPlaatsman/SemPlaatsman/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="">
     <img src="https://raw.githubusercontent.com/SemPlaatsman/SemPlaatsman/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="">
