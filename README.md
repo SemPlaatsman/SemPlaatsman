@@ -9,18 +9,19 @@
 - 📫 How to reach me [Email](mailto:semplaatsman@gmail.com), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), [Discord](https://discordapp.com/users/665130181597462530)
 
 - ⚡ Fun fact **my avatar is a perimeter graph derived from the letters of my name**
-<details open> 
-  <summary><h2>How to connect with me</h2></summary>
-  <p>
-    <a href="https://discordapp.com/users/665130181597462530"><img src="https://skillicons.dev/icons?i=discord" alt=""></a>
-    <a href="https://linkedin.com/in/sem-plaatsman-079a8a136"><img src="https://skillicons.dev/icons?i=linkedin" alt=""></a>
-  </p>
-</details>
 
 <details open>
   <summary><h2>Languages and Tools I have experience with</h2></summary>
   <p>
     <img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,idea,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma" alt="Languages and Tools">
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>How to connect with me</h2></summary>
+  <p>
+    <a href="https://discordapp.com/users/665130181597462530"><img src="https://skillicons.dev/icons?i=discord" alt=""></a>
+    <a href="https://linkedin.com/in/sem-plaatsman"><img src="https://skillicons.dev/icons?i=linkedin" alt=""></a>
   </p>
 </details>
 
