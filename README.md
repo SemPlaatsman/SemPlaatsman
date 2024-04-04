@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semplaatsman&label=Profile%20views&color=0e75b6&style=flat" alt="semplaatsman" /> </p>
 
-- 🌱 I’m currently learning **React, Sass, TypeScript, and ASP.NET Web API 2**
+- 🌱 I’m currently learning **Python, Data Mining, Statistics, and various AI technologies (CV, NLP, ML, DL, etc...)**
 
-- 📫 How to reach me [Email](mailto:semplaatsman@gmail.com), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), [Discord](https://discordapp.com/users/665130181597462530)
+- 📫 Reach me through [Email](mailto:semplaatsman@gmail.com), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), and/or [Discord](https://discordapp.com/users/665130181597462530)
 
 - ⚡ Fun fact **my avatar is a perimeter graph derived from the letters of my name**
 
