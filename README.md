@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semplaatsman&label=Profile%20views&color=0e75b6&style=flat" alt="semplaatsman" /> </p>
 
-- 🌱 I’m currently learning **Python, Data Mining, Statistics, and various <span title="Artificial Intelligence">AI</span> technologies (<span title="Computer Vision">CV</span>, <span title="Natural Language Processing">NLP</span>, <span title="Machine Learning">ML</span>, <span title="Deep Learning">DL</span>, etc...)**
+- 🌱 I’m currently learning **Cloud Computing, OpenShift, and containerization**
 
 - 📫 Reach me through [Email](mailto:hello@semplaatsman.nl), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), and/or [Discord](https://discordapp.com/users/665130181597462530)
 
