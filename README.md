@@ -1,9 +1,6 @@
-![Header](./github-header-image.png)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semplaatsman&label=Profile%20views&color=0e75b6&style=flat" alt="semplaatsman" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, OpenShift, and containerization**
+- 🌱 I’m currently studying **MSc Software Engineering @ UvA**
 
 - 📫 Reach me through [Email](mailto:hello@semplaatsman.nl), [LinkedIn](https://www.linkedin.com/in/sem-plaatsman-079a8a136/), and/or [Discord](https://discordapp.com/users/665130181597462530)
 
@@ -12,7 +9,7 @@
 <details open>
   <summary><h2>Languages and Tools I have experience with</h2></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,idea,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma" alt="Languages and Tools">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,spring,mongodb,mysql,hibernate,nginx,idea,visualstudio,vscode,php,linux,vite,vue,css,github,git,docker,bash,bootstrap,js,figma" alt="Languages and Tools">
   </p>
 </details>
 
