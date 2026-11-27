@@ -18,7 +18,6 @@
   <p>
     <a href="mailto:hello@semplaatsman.nl"><img src="https://skillicons.dev/icons?i=gmail" alt=""></a>
     <a href="https://linkedin.com/in/sem-plaatsman"><img src="https://skillicons.dev/icons?i=linkedin" alt=""></a>
-    <a href="https://discordapp.com/users/665130181597462530"><img src="https://skillicons.dev/icons?i=discord" alt=""></a>
   </p>
 </details>
 
